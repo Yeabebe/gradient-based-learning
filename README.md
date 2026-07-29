@@ -141,13 +141,45 @@ The convergence behavior of each configuration is visualized and compared.
 The notebook includes:
 
 - Synthetic dataset visualization
+
+<img width="713" height="479" alt="image" src="https://github.com/user-attachments/assets/0b5a43b8-8743-449a-8745-a943670009ae" />
+
+ 
 - Linear Regression fit
+
+<img width="713" height="479" alt="image" src="https://github.com/user-attachments/assets/481d9160-4453-4400-808d-d4d368614e88" />
+
+
 - Neural Network fit
+
+<img width="713" height="479" alt="image" src="https://github.com/user-attachments/assets/6aae0878-0c73-47ca-b25a-fead79d91ecb" />
+
+
 - Linear Regression loss curve
+
+<img width="710" height="479" alt="image" src="https://github.com/user-attachments/assets/fc8baa30-20ad-4215-a06e-67a096640f48" />
+
+
 - Neural Network loss curve
+
+<img width="699" height="479" alt="image" src="https://github.com/user-attachments/assets/53ec9ad5-6eba-494d-91e6-628d69d2f272" />
+
+
 - Learning rate comparison
+
+<img width="777" height="556" alt="image" src="https://github.com/user-attachments/assets/ab4028a5-993f-4e21-9b43-64dddfb921ad" />
+
+
 - Linear Regression vs Neural Network prediction comparison
+
+<img width="868" height="556" alt="image" src="https://github.com/user-attachments/assets/33a0fd7a-6747-4323-b4ea-385386bdb5fe" />
+
+
 - Training loss comparison
+
+<img width="777" height="556" alt="image" src="https://github.com/user-attachments/assets/cfc3c72c-f8b8-4ca8-98c3-02e5faeda868" />
+
+
 
 ---
 
@@ -197,7 +229,7 @@ git clone https://github.com/Yeabebe/gradient-based-learning.git
 Navigate to the project directory
 
 ```bash
-cd your-repository
+cd gradient-based-learning
 ```
 
 Install dependencies
